@@ -1,0 +1,21 @@
+#contain{
+    padding-top: 2%;
+    border: 0px solid saddlebrown;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 4%;
+    background-color: rgb(247, 247, 243);
+    padding-bottom: 2%;
+}
+body{
+    background-color: rgb(239, 239, 244);
+}
+.headder{
+    text-align: center;
+    padding-top: 2%;
+}
+.bf{
+    padding-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
